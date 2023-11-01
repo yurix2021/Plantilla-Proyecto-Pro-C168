@@ -1,2 +1,2 @@
-# Plantilla-Proyecto-Pro-C168
-TIENDA DE JUGUETES AR – ETAPA 1
+# PROFESIONAL_C168_AR
+Proyecto para la clase C168.
